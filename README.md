@@ -9,6 +9,7 @@ CLAUDE.md is a markdown file that provides context and guidelines to Claude when
 ## Templates
 
 - [Minimal Code Principles](./minimal-code-principles.md) - Write less code by leveraging existing infrastructure
+- [Practical Development Habits](./practical-development-habits.md) - Simple habits for effective AI-assisted development
 
 ## Usage
 
